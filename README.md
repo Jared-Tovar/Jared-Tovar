@@ -2,7 +2,8 @@
 - 👀 I’m interested in ... Gaming, anime, movies, pretty much anything fantasy driven. I would like to learn more MTG, I'm not that good yet. I have a couple of commander decks and some friends who play. 
 - 🌱 I’m currently learning ... HTML and CSS through The Odin Project. Once I finish this, I plan to dive into Roadmaps.sh and continuously learn, retain, adapt, and apply. 
 - 💞️ I’m looking to collaborate on ... anything that'll help contribute to my skill set. I'm new and look forward to starting a new career.
-- 📫 How to reach me ... jared_tovar90@icloud.com
+- 📫 How to reach me ... phone: (254)-709-1796
+                         email: jared_tovar90@icloud.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...
   I'm starting my coding career through The Odin Project, and I've found it so far to be a great resource to introduce 
